@@ -18,7 +18,7 @@ Hello! I'm Wook Heo, navigating through the vast ocean of data as an aspiring AI
 
   <!-- 기술 스택 아이콘 -->
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white" alt="Static Badge" >
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/>
   <!-- 추가 기술 스택 -->
 ## 🌟 Projects I'm Sailing On
@@ -35,5 +35,4 @@ I'm always ready for a deep dive into AI and data science. If you want to discus
 
   <a href="mailto:wooksbaby@gmail.com">📧 wooksbaby@gmail.com</a> ·
   <a href="LinkedIn_Profile_Link">💼 LinkedIn</a> ·
-  <a href="Portfolio_Link">🌐 웹사이트</a>
 </p>
