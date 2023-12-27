@@ -22,6 +22,7 @@ Hello! I'm Wook Heo, navigating through the vast ocean of data as an aspiring AI
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/>
   <!-- 추가 기술 스택 -->
 ## 🌟 Projects I'm Sailing On
+- [Level 1 Book Rating Prediction](https://github.com/boostcampaitech6/level1-bookratingprediction-recsys-05.git) - AI를 이용한 도서 평점 예측 프로젝트.
 - Developing a personalized recommendation engine
 - Conducting deep data analysis and machine learning projects
 
