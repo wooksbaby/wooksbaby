@@ -31,7 +31,7 @@ Hello! I'm Wook Heo, navigating through the vast ocean of data as an aspiring AI
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=ocean_dark)
 
 
-## 🌐Contact the Sailor
+## 🌐You can meet here!
 I'm always ready for a deep dive into AI and data science. If you want to discuss these topics or share ideas, feel free to reach out. Let’s navigate these waters together!
 
   <a href="mailto:wooksbaby@gmail.com">📧 wooksbaby@gmail.com</a> ·
