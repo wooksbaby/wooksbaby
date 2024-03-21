@@ -26,10 +26,10 @@ Hello! I'm Wook Heo, navigating through the vast ocean of data as an aspiring AI
 - Developing a personalized recommendation engine
 - Conducting deep data analysis and machine learning projects
 
-
+<!--
 ## 📊 My Nautical Charts (GitHub Stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=ocean_dark)
-
+'''-->
 
 ## 🏝️You Can Meet Here!
 I'm always ready for a deep dive into AI and data science. If you want to discuss these topics or share ideas, feel free to reach out. Let’s navigate these waters together!
