@@ -22,7 +22,10 @@ Hello! I'm Wook Heo, navigating through the vast ocean of data as an aspiring AI
   <!-- 추가 기술 스택 -->
   
 ## ⛵ Projects I'm Sailing On
-- [Level 1 Book Rating Prediction](https://github.com/boostcampaitech6/level1-bookratingprediction-recsys-05.git) - AI를 이용한 도서 평점 예측 프로젝트.
+- [Book Rating Prediction](https://github.com/boostcampaitech6/level1-bookratingprediction-recsys-05.git) - AI를 이용한 도서 평점 예측 프로젝트.
+- [Deep Knowledge Tracing](https://github.com/wooksbaby/level2-dkt-recsys-06) - 지식 기반 정답률 예측
+- [Movie Recommendation](https://github.com/wooksbaby/level2-movierecommendation-recsys-06) - AI기반 영화 추천 프로젝트
+- 
 - Developing a personalized recommendation engine
 - Conducting deep data analysis and machine learning projects
 
